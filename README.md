@@ -1,4 +1,4 @@
-# New Project
+# SnowPack Zeplin Converter
 
 SnowPack Zeplin Converter Example
 
